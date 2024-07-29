@@ -5,7 +5,6 @@ import PriceSelection from '../components/PriceSelection';
 const HomePage: React.FC = () => {
   return (
     <div>
-      <h1>Welcome to Our Pricing Page</h1>
       <PriceSelection />
     </div>
   );
